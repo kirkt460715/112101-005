@@ -1,0 +1,17 @@
+{
+  "collection": "records.json",
+  "record_fields": [
+    "participant_ref",
+    "stage",
+    "stage_status",
+    "eligibility",
+    "revision"
+  ],
+  "example_record": {
+    "participant_ref": "c-01",
+    "stage": "地区预选",
+    "stage_status": "completed",
+    "eligibility": "eligible",
+    "revision": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "participant_ref": "c-01",
+      "stage": "地区预选",
+      "stage_status": "completed",
+      "eligibility": "eligible",
+      "revision": 1
+    },
+    {
+      "participant_ref": "c-01",
+      "stage": "材料审核",
+      "stage_status": "completed",
+      "eligibility": "eligible",
+      "revision": 1
+    },
+    {
+      "participant_ref": "c-02",
+      "stage": "复赛",
+      "stage_status": "absent",
+      "eligibility": "eligible",
+      "revision": 2
+    },
+    {
+      "participant_ref": "c-03",
+      "stage": "全球决赛",
+      "stage_status": "scheduled",
+      "eligibility": "pending",
+      "revision": 1
+    },
+    {
+      "participant_ref": "c-04",
+      "stage": "地区预选",
+      "stage_status": "cancelled",
+      "eligibility": "revoked",
+      "revision": 2
+    }
+  ]
+}
